@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="e32afdc5-2a82-4376-90b8-d14bad6ce622"
+mode="Desktop">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="Recording1"
+	namespace="SingleReportPDF1">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+	</recorditems>
+	<repository
+	id="670bdd94-abaa-4438-9e6e-f27ed5ea0bd2"
+	name="SingleReportPDF1Repository"
+	relativepath="SingleReportPDF1Repository.rxrep">
+		<codegen
+		classname="SingleReportPDF1Repository"
+		namespace="SingleReportPDF1">
+		</codegen>
+		<rootfolder
+		id="a1082939-f424-441e-adfd-7e3a99a0327d"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		Recording1.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>
