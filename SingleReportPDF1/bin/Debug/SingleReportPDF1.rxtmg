@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc>
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="SingleReportPDF1"
+      id="d5267b68-f2e8-4163-89e3-8aba104df590"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="SingleReportPDF1"
+      id="d5267b68-f2e8-4163-89e3-8aba104df590"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>
